@@ -1,0 +1,6 @@
+bimodal_compute.$(obj-suffix):\
+    bimodal_compute.C
+bimodal_likelihood.$(obj-suffix):\
+    bimodal_likelihood.C
+bimodal_main.$(obj-suffix):\
+    bimodal_main.C
