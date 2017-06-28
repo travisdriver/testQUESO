@@ -55,7 +55,7 @@ double likelihoodRoutine(
           // cos(paramValues[17]/2) + cos(paramValues[18]/2) + cos(paramValues[19]/2);
 
     double logL = pow(( 2 + prod ), 5);
-    logL = log(logL);
+    //logL = log(logL);
 
     double resultValue = -2*logL;
 

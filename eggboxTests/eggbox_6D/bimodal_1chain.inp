@@ -26,7 +26,7 @@ ip_ml_dataOutputAllowedSet = 0 1
 # All levels, unless otherwise specified
 ###############################################
 #ip_ml_default_loadBalance = 0
-ip_ml_default_rawChain_size = 40000
+#ip_ml_default_rawChain_size = 40000
 ip_ml_default_rawChain_dataOutputFileName = outputData/rawChain_ml #data from all levels will be written
 ip_ml_default_minEffectiveSizeRatio = 0.49
 ip_ml_default_maxEffectiveSizeRatio = 0.51
