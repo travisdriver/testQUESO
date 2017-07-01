@@ -49,7 +49,7 @@ double likelihoodRoutine(
     
     double returnValue = 0.;
     double prod = 0.;
-    prod = cos(paramValues[0]/2) * cos(paramValues[1]/2) * cos(paramValues[3]/2) * cos(paramValues[4]/2) *  cos(paramValues[5]/2) * \ 
+    prod = cos(paramValues[0]/2) * cos(paramValues[1]/2) * cos(paramValues[2]/2) * cos(paramValues[3]/2) * cos(paramValues[4]/2) *  cos(paramValues[5]/2) * \ 
            cos(paramValues[6]/2) * cos(paramValues[7]/2) * cos(paramValues[8]/2) * cos(paramValues[9]/2); //cos(paramValues[10]/2) + \
           // cos(paramValues[12]/2) + cos(paramValues[13]/2) + cos(paramValues[14]/2) + cos(paramValues[15]/2) + cos(paramValues[16]/2) + \
           // cos(paramValues[17]/2) + cos(paramValues[18]/2) + cos(paramValues[19]/2);

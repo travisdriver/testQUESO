@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------------------------------------
+QUESO Library: Version = 0.54.0 (5400)
+
+External Release
+
+Build Date   = 2017-06-05 16:10
+Build Host   = login2
+Build User   = tpd399
+Build Arch   = x86_64-unknown-linux-gnu
+Build Rev    = N/A
+
+C++ Config   = mpicxx -std=c++11
+
+Trilinos DIR = 
+GSL Libs     = -L/work/04921/tpd399/lonestar/LIBRARIES/GSL-21/lib -lgsl -lgslcblas -lm
+GRVY DIR     = 
+GLPK DIR     = 
+HDF5 DIR     = 
+--------------------------------------------------------------------------------------------------------------
+Beginning run at Thu Jun 29 18:57:12 2017
+
+Entering StatisticalInverseProblem<P_V,P_M>::constructor(): prefix = , alternativeOptionsValues = 0, m_env.optionsInputFileName() = bimodal_1chain.inp
+Leaving StatisticalInverseProblem<P_V,P_M>::constructor(): prefix = ip_
+In StatisticalInverseProblem<P_V,P_M>::solveWithBayesMLSampling(): computing solution, as requested by user
+Entering MLSampling<P_V,P_M>::constructor()
+Leaving MLSampling<P_V,P_M>::constructor()
+Entering MLSampling<P_V,P_M>::generateSequence(), at  Thu Jun 29 18:57:12 2017
+, after 0 seconds from queso environment instatiation...
+KEY In MLSampling<P_V,P_M>::generateSequence(): beginning level 0, currOptions.m_rawChainSize = 100
+In MLSampling<P_V,P_M>::generateSequence(), level 0: finished generating 100 chain positions
+In MLSampling<P_V,P_M>::generateSequence(): ending level 0, total level time = 0.007724 seconds
+In MLSampling<P_V,P_M>::generateSequence(): at end of level 0, sub minLogLike = -nan, sub maxLogLike = -nan
+In MLSampling<P_V,P_M>::generateSequence(): at end of level 0, unified minLogLike = -nan, unified maxLogLike = -nan
+In MLSampling<P_V,P_M>::generateSequence(): beginning level 1, at  Thu Jun 29 18:57:12 2017
+, after 0 seconds from entering the routine, after 0 seconds from queso environment instatiation
+In IMLSampling<P_V,P_M>::generateSequence(), level 1, beginning 'do-while(tryExponentEta): failedExponent = 0, failedEta = 0
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 1: beginning step 1 of 11
+KEY In MLSampling<P_V,P_M>::generateSequence(), level 1, step 1, currOptions->m_rawChainSize = 100
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 1, after 3.2e-05 seconds
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 2: beginning step 2 of 11
+In MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 2, prevLogLikelihoodValues[0] = -nan
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 2: prevChain.unifiedSequenceSize() = 100, currChain.unifiedSequenceSize() = 0, prevLogLikelihoodValues.unifiedSequenceSize() = 100, currLogLikelihoodValues.unifiedSequenceSize() = 0, prevLogTargetValues.unifiedSequenceSize() = 100, currLogTargetValues.unifiedSequenceSize() = 0
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 2, after 8.6e-05 seconds
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3, failedExponent = 0: beginning step 3 of 11
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3, failedExponent = 0: entering loop for computing next exponent, with nowAttempt = 0
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: nowAttempt = 0, prevExponent = 0, exponents[0] = 0, nowExponent = 1, exponents[1] = 1, subWeightRatioSum = -nan, unifiedWeightRatioSum = -nan, unifiedOmegaLnMax = -nan, weightSequence.unifiedSequenceSize() = 100, nowUnifiedEvidenceLnFactor = -nan, effectiveSampleSize = -nan

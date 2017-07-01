@@ -42,9 +42,9 @@ void compute(const QUESO::FullEnvironment& env) {
   // Step 2 of 5: Instantiate the parameter domain
   //------------------------------------------------------
   QUESO::GslVector paramMins(paramSpace.zeroVector());
-  paramMins.cwSet( 0.);
+  paramMins.cwSet(-INFINITY);
   QUESO::GslVector paramMaxs(paramSpace.zeroVector());
-  paramMaxs.cwSet( 100.);
+  paramMaxs.cwSet( INFINITY);
   QUESO::BoxSubset<QUESO::GslVector,QUESO::GslMatrix>
     paramDomain("param_",paramSpace,paramMins,paramMaxs);
 

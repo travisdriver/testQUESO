@@ -80,19 +80,19 @@ double likelihoodRoutine(
   					             * exp( -0.5 * scalarProduct( diffVecR , invCovMatR.multiply(diffVecR) ) );
   
   double getLogProbGR = rosenbrock + normFac * gaussian;
-  if (getLogProbGR==0.)
-  {
-  	  getLogProbGR = -std::numeric_limits<double>::max();
-  }
-  else
-  {
-  	  getLogProbGR = log( rosenbrock + normFac * gaussian );
-  }
+  //if (getLogProbGR==0.)
+  //{
+  //	  getLogProbGR = -std::numeric_limits<double>::max();
+  //}
+  //else
+  //{
+  //	  getLogProbGR = log( rosenbrock + normFac * gaussian );
+  //}
 
-  double resultValue = getLogProbGR;
+  double resultValue = 2.*log(getLogProbGR);
   //resultValue = log(resultValue);
 
-  //if (resultValue == INFINITY) {
+  if (resultValue == -INFINITY) {
     //std::cerr << "WARNING In likelihoodRoutine"
     //          << ", fullRank "       << paramValues.env().fullRank()
     //          << ", subEnvironment " << paramValues.env().subId()
@@ -103,14 +103,14 @@ double likelihoodRoutine(
     //          << ", z2 = "           << z2
     //          << ", resultValue = "  << resultValue
     //          << std::endl;
-    //resultValue = 1040.;
-  //}
+    resultValue = -1040.;
+  }
   //if (resultValue == -INFINITY){
-  //	resultValue = -1040.;
+  	//resultValue = -1040.;
   //}
 
 
-  double returnValue = resultValue;
+  double returnValue = 0.5*resultValue;
 
   
   if (paramValues.env().exceptionalCircumstance()) {

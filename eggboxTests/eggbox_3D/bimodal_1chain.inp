@@ -7,7 +7,7 @@ env_subDisplayAllowAll   = 0
 env_subDisplayAllowedSet = 0 1
 env_displayVerbosity     = 2
 env_syncVerbosity        = 0
-env_seed                 = -1
+env_seed                 = -500
 
 ###############################################
 # Statistical inverse problem (ip)

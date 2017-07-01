@@ -17,7 +17,7 @@ GRVY DIR     =
 GLPK DIR     = 
 HDF5 DIR     = 
 --------------------------------------------------------------------------------------------------------------
-Beginning run at Mon Jun 26 18:21:35 2017
+Beginning run at Wed Jun 28 18:07:59 2017
 
 MPI node of worldRank 0 has fullRank 0, belongs to subEnvironment of id 0, and has subRank 0
 MPI node of worldRank 0 belongs to sub communicator with full ranks 0
@@ -29,6 +29,3 @@ MPI node of worldRank 0 also belongs to inter0 communicator with full ranks 0, a
 *** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/FiniteDistribution.C, line 117, compiled Jun  5 2017 at 16:13:48 ***
 *** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/MetropolisHastingsSGOptions.C, line 888, compiled Jun  5 2017 at 16:14:03 ***
 *** Warning, this code is deprecated and likely to be removed in future library versions:  core/src/GslMatrix.C, line 429, compiled Jun  5 2017 at 16:12:32 ***
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-slurmstepd: *** STEP 901695.10 ON nid00017 CANCELLED AT 2017-06-26T18:32:47 ***
-srun: error: nid00017: task 0: Terminated

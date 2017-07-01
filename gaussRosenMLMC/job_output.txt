@@ -17,10 +17,21 @@ GRVY DIR     =
 GLPK DIR     = 
 HDF5 DIR     = 
 --------------------------------------------------------------------------------------------------------------
-Beginning run at Wed Jun 28 12:52:10 2017
+Beginning run at Thu Jun 29 18:57:12 2017
 
 MPI node of worldRank 0 has fullRank 0, belongs to subEnvironment of id 0, and has subRank 0
 MPI node of worldRank 0 belongs to sub communicator with full ranks 0
 MPI node of worldRank 0 also belongs to inter0 communicator with full ranks 0, and has inter0Rank 0
 
 *** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/MLSamplingLevelOptions.C, line 440, compiled Jun  5 2017 at 16:14:48 ***
+Assertion `nowEffectiveSizeRatio <= (1.+1.e-8)' failed.
+nowEffectiveSizeRatio = -nan
+(1.+1.e-8) = 1
+effective sample size ratio cannot be > 1
+stats/src/MLSampling.C, line 2786, compiled Jun  5 2017 at 16:14:23
+
+Rank 0 [Thu Jun 29 18:57:12 2017] [c0-0c0s5n1] application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+*** Warning, AutoPtr is deprecated and will be removed in a future library version! ./include/libmesh/auto_ptr.h, line 271, compiled Jun  5 2017 at 15:16:14 ***
+srun: error: nid00021: task 0: Exited with exit code 255
