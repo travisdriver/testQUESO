@@ -17,36 +17,36 @@ GRVY DIR     =
 GLPK DIR     = 
 HDF5 DIR     = 
 --------------------------------------------------------------------------------------------------------------
-Beginning run at Wed Jun 28 18:17:51 2017
+Beginning run at Sun Jul  2 12:55:51 2017
 
 Entering StatisticalInverseProblem<P_V,P_M>::constructor(): prefix = , alternativeOptionsValues = 0, m_env.optionsInputFileName() = bimodal_1chain.inp
 Leaving StatisticalInverseProblem<P_V,P_M>::constructor(): prefix = ip_
 In StatisticalInverseProblem<P_V,P_M>::solveWithBayesMLSampling(): computing solution, as requested by user
 Entering MLSampling<P_V,P_M>::constructor()
 Leaving MLSampling<P_V,P_M>::constructor()
-Entering MLSampling<P_V,P_M>::generateSequence(), at  Wed Jun 28 18:17:51 2017
+Entering MLSampling<P_V,P_M>::generateSequence(), at  Sun Jul  2 12:55:51 2017
 , after 0 seconds from queso environment instatiation...
 KEY In MLSampling<P_V,P_M>::generateSequence(): beginning level 0, currOptions.m_rawChainSize = 100
 In MLSampling<P_V,P_M>::generateSequence(), level 0: finished generating 100 chain positions
-In MLSampling<P_V,P_M>::generateSequence(): ending level 0, total level time = 0.009604 seconds
-In MLSampling<P_V,P_M>::generateSequence(): at end of level 0, sub minLogLike = 31.8905, sub maxLogLike = 32.1307
-In MLSampling<P_V,P_M>::generateSequence(): at end of level 0, unified minLogLike = 31.8905, unified maxLogLike = 32.1307
-In MLSampling<P_V,P_M>::generateSequence(): beginning level 1, at  Wed Jun 28 18:17:51 2017
+In MLSampling<P_V,P_M>::generateSequence(): ending level 0, total level time = 0.010822 seconds
+In MLSampling<P_V,P_M>::generateSequence(): at end of level 0, sub minLogLike = 31.8066, sub maxLogLike = 32.0574
+In MLSampling<P_V,P_M>::generateSequence(): at end of level 0, unified minLogLike = 31.8066, unified maxLogLike = 32.0574
+In MLSampling<P_V,P_M>::generateSequence(): beginning level 1, at  Sun Jul  2 12:55:51 2017
 , after 0 seconds from entering the routine, after 0 seconds from queso environment instatiation
 In IMLSampling<P_V,P_M>::generateSequence(), level 1, beginning 'do-while(tryExponentEta): failedExponent = 0, failedEta = 0
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 1: beginning step 1 of 11
 KEY In MLSampling<P_V,P_M>::generateSequence(), level 1, step 1, currOptions->m_rawChainSize = 100
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 1, after 2.8e-05 seconds
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 1, after 3e-05 seconds
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 2: beginning step 2 of 11
-In MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 2, prevLogLikelihoodValues[0] = 32.0038
+In MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 2, prevLogLikelihoodValues[0] = 32
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 2: prevChain.unifiedSequenceSize() = 100, currChain.unifiedSequenceSize() = 0, prevLogLikelihoodValues.unifiedSequenceSize() = 100, currLogLikelihoodValues.unifiedSequenceSize() = 0, prevLogTargetValues.unifiedSequenceSize() = 100, currLogTargetValues.unifiedSequenceSize() = 0
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 2, after 8.5e-05 seconds
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 2, after 9.5e-05 seconds
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3, failedExponent = 0: beginning step 3 of 11
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3, failedExponent = 0: entering loop for computing next exponent, with nowAttempt = 0
-In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: nowAttempt = 0, prevExponent = 0, exponents[0] = 0, nowExponent = 1, exponents[1] = 1, subWeightRatioSum = 87.9104, unifiedWeightRatioSum = 87.9104, unifiedOmegaLnMax = 32.1307, weightSequence.unifiedSequenceSize() = 100, nowUnifiedEvidenceLnFactor = 32.0018, effectiveSampleSize = 0.0100046
-In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: nowAttempt = 0, prevExponent = 0, failedExponent = 0, exponents[0] = 0, nowExponent = 1, exponents[1] = 1, effectiveSampleSize = 99.9541, weightSequenceSize = 100, minEffectiveSizeRatio = 0.49, nowEffectiveSizeRatio = 0.999541, maxEffectiveSizeRatio = 0.51, testResult = 1
-In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: weightSequence.subSequenceSize() = 100, weightSequence.unifiedSequenceSize() = 100, failedExponent = 0, currExponent = 1, effective ratio = 0.999541, log(evidence factor) = 32.0018, evidence factor = 7.9106e+13
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 3, failedExponent = 0, after 0.000766 seconds
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: nowAttempt = 0, prevExponent = 0, exponents[0] = 0, nowExponent = 1, exponents[1] = 1, subWeightRatioSum = 94.2106, unifiedWeightRatioSum = 94.2106, unifiedOmegaLnMax = 32.0574, weightSequence.unifiedSequenceSize() = 100, nowUnifiedEvidenceLnFactor = 31.9977, effectiveSampleSize = 0.0100057
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: nowAttempt = 0, prevExponent = 0, failedExponent = 0, exponents[0] = 0, nowExponent = 1, exponents[1] = 1, effectiveSampleSize = 99.9435, weightSequenceSize = 100, minEffectiveSizeRatio = 0.49, nowEffectiveSizeRatio = 0.999435, maxEffectiveSizeRatio = 0.51, testResult = 1
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: weightSequence.subSequenceSize() = 100, weightSequence.unifiedSequenceSize() = 100, failedExponent = 0, currExponent = 1, effective ratio = 0.999435, log(evidence factor) = 31.9977, evidence factor = 7.87845e+13
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 3, failedExponent = 0, after 0.000891 seconds
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: copying 'last' level options to current options
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 3: after copying 'last' level options to current options, the current options are
 Input options:
@@ -73,10 +73,10 @@ Input options:
                                         maximum allowed effective size ratio 
                                         wrt previous level
   --ip_ml_last_scaleCovMatrix arg (=1)  scale proposal covariance matrix
-  --ip_ml_last_minRejectionRate arg (=0.23999999999999999)
+  --ip_ml_last_minRejectionRate arg (=0.050000000000000003)
                                         minimum allowed attempted rejection 
                                         rate at current level
-  --ip_ml_last_maxRejectionRate arg (=0.40000000000000002)
+  --ip_ml_last_maxRejectionRate arg (=0.94999999999999996)
                                         maximum allowed attempted rejection 
                                         rate at current level
   --ip_ml_last_covRejectionRate arg (=0.25)
@@ -252,11 +252,11 @@ ip_ml_last_am_epsilon = 1e-05
 ip_ml_last_doLogitTransform = 0
 
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 4: beginning step 4 of 11
-In MLSampling<P_V,P_M>::generateSequence(), level 1, step 4: unifiedCovMatrix = 762.421 -0.696854 -44.6178 -66.9872 184.957 101.896 47.8349 -13.2211 220.942 -23.3402 48.5804 139.082 -4.04515 -49.0046 19.2143 27.8583 -161.462 -10.3667 187.824 -40.4334 ; -0.696854 767.168 -78.9374 38.3461 -44.7227 -113.201 -95.7264 52.1884 -38.6343 95.0528 65.8005 -37.9439 -42.6403 25.259 7.71618 -93.8544 17.1103 37.1248 87.1165 -84.8883 ; -44.6178 -78.9374 985.991 -7.97543 23.1226 -23.2311 202.881 -200.205 -79.7324 22.3275 -132.805 150.319 -50.1077 -128.213 -64.7046 21.9931 -90.0983 130.538 -5.25298 -196.17 ; -66.9872 38.3461 -7.97543 847.852 -20.5572 -51.8704 -184.418 50.5382 -8.2166 -117.838 28.0336 35.9734 -7.35849 57.0273 15.4928 15.8094 -76.8692 18.2854 73.8937 3.03609 ; 184.957 -44.7227 23.1226 -20.5572 849.837 1.94407 83.787 -62.3454 84.2547 -220.5 -36.3452 2.79111 -104.961 24.4084 123.082 34.5832 -28.9195 -155.942 39.0777 98.7086 ; 101.896 -113.201 -23.2311 -51.8704 1.94407 906.608 47.4582 -44.4915 134.173 -43.1813 -75.3049 56.6742 29.2365 -87.4884 -162.667 16.522 -16.4697 -8.50151 42.7567 -51.6333 ; 47.8349 -95.7264 202.881 -184.418 83.787 47.4582 775.874 42.118 99.4407 -32.189 5.04689 42.9991 -130.048 18.5382 -81.5795 -26.5646 133.828 -1.55565 90.0904 -11.6895 ; -13.2211 52.1884 -200.205 50.5382 -62.3454 -44.4915 42.118 864.728 49.2846 -83.7735 -26.7775 114.315 -65.6838 96.2223 14.6254 106.342 7.17107 116.077 -70.6977 -45.9447 ; 220.942 -38.6343 -79.7324 -8.2166 84.2547 134.173 99.4407 49.2846 810.141 -2.16343 -78.0115 -27.4399 -41.7937 -90.4207 -140.791 162.849 -8.66038 57.6124 88.8047 81.8411 ; -23.3402 95.0528 22.3275 -117.838 -220.5 -43.1813 -32.189 -83.7735 -2.16343 786.725 -10.9346 -44.4244 19.5873 -56.4791 -144.535 -89.5406 19.1034 -17.765 52.4958 -8.34933 ; 48.5804 65.8005 -132.805 28.0336 -36.3452 -75.3049 5.04689 -26.7775 -78.0115 -10.9346 845.581 -41.6323 -106.517 37.9651 90.749 -81.6087 -7.02639 33.0563 231.456 17.2118 ; 139.082 -37.9439 150.319 35.9734 2.79111 56.6742 42.9991 114.315 -27.4399 -44.4244 -41.6323 764.12 120.131 10.5162 -18.3092 -46.4087 -113.629 7.28204 -28.1366 -85.0117 ; -4.04515 -42.6403 -50.1077 -7.35849 -104.961 29.2365 -130.048 -65.6838 -41.7937 19.5873 -106.517 120.131 738.36 -139.651 -2.84121 69.3252 -97.7806 -18.431 -6.79219 -71.37 ; -49.0046 25.259 -128.213 57.0273 24.4084 -87.4884 18.5382 96.2223 -90.4207 -56.4791 37.9651 10.5162 -139.651 775.723 126.968 -126.346 30.1843 -121.132 -1.08706 -76.7059 ; 19.2143 7.71618 -64.7046 15.4928 123.082 -162.667 -81.5795 14.6254 -140.791 -144.535 90.749 -18.3092 -2.84121 126.968 795.839 -189.65 -127.824 -47.6779 90.3013 -86.7861 ; 27.8583 -93.8544 21.9931 15.8094 34.5832 16.522 -26.5646 106.342 162.849 -89.5406 -81.6087 -46.4087 69.3252 -126.346 -189.65 820.269 -119.432 -11.264 -130.02 107.147 ; -161.462 17.1103 -90.0983 -76.8692 -28.9195 -16.4697 133.828 7.17107 -8.66038 19.1034 -7.02639 -113.629 -97.7806 30.1843 -127.824 -119.432 731.711 52.3507 -84.7572 -8.00481 ; -10.3667 37.1248 130.538 18.2854 -155.942 -8.50151 -1.55565 116.077 57.6124 -17.765 33.0563 7.28204 -18.431 -121.132 -47.6779 -11.264 52.3507 698.818 -48.8425 -190.866 ; 187.824 87.1165 -5.25298 73.8937 39.0777 42.7567 90.0904 -70.6977 88.8047 52.4958 231.456 -28.1366 -6.79219 -1.08706 90.3013 -130.02 -84.7572 -48.8425 823.045 -113.198 ; -40.4334 -84.8883 -196.17 3.03609 98.7086 -51.6333 -11.6895 -45.9447 81.8411 -8.34933 17.2118 -85.0117 -71.37 -76.7059 -86.7861 107.147 -8.00481 -190.866 -113.198 908.176 
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 4, after 0.000897 seconds
+In MLSampling<P_V,P_M>::generateSequence(), level 1, step 4: unifiedCovMatrix = 846.887 -50.4382 -9.53728 44.6306 34.46 11.7536 81.7083 -148.933 66.8672 96.7877 108.712 75.9228 79.0186 0.593813 33.7049 -116.867 25.3086 -57.4392 -124.431 79.1156 ; -50.4382 911.217 -50.6059 -5.80731 121.051 -45.929 -99.8302 16.2313 86.3195 -10.9916 -24.1497 62.3716 -64.0495 -65.6987 35.3943 5.46691 -47.2765 -21.2576 -148.245 59.434 ; -9.53728 -50.6059 765.635 -40.9764 17.6559 50.7083 105.758 72.4353 -138.273 -125.944 39.8403 64.0535 -104.712 9.77663 37.5853 -36.5936 -71.7246 -29.3826 -2.08225 49.036 ; 44.6306 -5.80731 -40.9764 833.524 83.9286 -58.007 126.571 -75.6518 19.0992 132.707 -25.7529 -63.1164 -53.6895 7.12297 -18.7846 2.3014 61.6957 22.5827 -127.031 239.889 ; 34.46 121.051 17.6559 83.9286 892.394 94.3358 -140.973 -5.91031 51.2163 108.252 144.884 -43.2582 118.192 -163.449 -68.9834 -7.28642 32.5789 -71.063 -154.764 33.2281 ; 11.7536 -45.929 50.7083 -58.007 94.3358 908.63 -83.4409 -82.7234 -53.5322 -46.4493 -2.9797 -141.06 -61.743 53.0207 -184.062 -60.2721 24.2548 22.2492 -25.4498 -60.3681 ; 81.7083 -99.8302 105.758 126.571 -140.973 -83.4409 799.065 38.7587 182.549 -55.1332 54.963 42.7253 27.9866 15.7424 -38.8568 -82.4827 -252.116 -93.7904 14.3249 -16.7269 ; -148.933 16.2313 72.4353 -75.6518 -5.91031 -82.7234 38.7587 930.981 -62.9359 -197.891 -5.11243 1.91275 -277.306 74.0989 192.472 -155.485 -192.296 -50.8237 66.7834 -52.3531 ; 66.8672 86.3195 -138.273 19.0992 51.2163 -53.5322 182.549 -62.9359 739.464 26.4916 24.7163 16.1939 130.917 11.4779 21.3635 1.52652 -54.9311 -24.4282 -141.319 -8.09871 ; 96.7877 -10.9916 -125.944 132.707 108.252 -46.4493 -55.1332 -197.891 26.4916 766.685 125.465 136.533 155.096 -8.80928 -193.198 -15.511 70.7404 75.0318 -85.7582 34.7299 ; 108.712 -24.1497 39.8403 -25.7529 144.884 -2.9797 54.963 -5.11243 24.7163 125.465 959.876 -24.4848 -10.8172 -13.4876 40.6966 -162.581 52.1388 49.7847 -95.3582 -213.038 ; 75.9228 62.3716 64.0535 -63.1164 -43.2582 -141.06 42.7253 1.91275 16.1939 136.533 -24.4848 861.004 -36.5614 -71.3122 72.5697 -4.42768 -9.57773 51.2094 2.98816 -33.6265 ; 79.0186 -64.0495 -104.712 -53.6895 118.192 -61.743 27.9866 -277.306 130.917 155.096 -10.8172 -36.5614 860.573 -118.531 -10.9262 99.1557 43.9954 109.731 -112.99 -16.7314 ; 0.593813 -65.6987 9.77663 7.12297 -163.449 53.0207 15.7424 74.0989 11.4779 -8.80928 -13.4876 -71.3122 -118.531 767.537 106.707 12.4672 -19.4247 -7.12925 40.0461 -0.417626 ; 33.7049 35.3943 37.5853 -18.7846 -68.9834 -184.062 -38.8568 192.472 21.3635 -193.198 40.6966 72.5697 -10.9262 106.707 880.1 -27.0414 33.3615 15.7805 68.9417 39.2511 ; -116.867 5.46691 -36.5936 2.3014 -7.28642 -60.2721 -82.4827 -155.485 1.52652 -15.511 -162.581 -4.42768 99.1557 12.4672 -27.0414 714.395 116.366 15 56.3593 83.3444 ; 25.3086 -47.2765 -71.7246 61.6957 32.5789 24.2548 -252.116 -192.296 -54.9311 70.7404 52.1388 -9.57773 43.9954 -19.4247 33.3615 116.366 912.09 -134.146 50.9433 -19.7576 ; -57.4392 -21.2576 -29.3826 22.5827 -71.063 22.2492 -93.7904 -50.8237 -24.4282 75.0318 49.7847 51.2094 109.731 -7.12925 15.7805 15 -134.146 829.074 11.6738 27.7918 ; -124.431 -148.245 -2.08225 -127.031 -154.764 -25.4498 14.3249 66.7834 -141.319 -85.7582 -95.3582 2.98816 -112.99 40.0461 68.9417 56.3593 50.9433 11.6738 805.537 -31.3556 ; 79.1156 59.434 49.036 239.889 33.2281 -60.3681 -16.7269 -52.3531 -8.09871 34.7299 -213.038 -33.6265 -16.7314 -0.417626 39.2511 83.3444 -19.7576 27.7918 -31.3556 886.306 
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 4, after 0.001227 seconds
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 5: beginning step 5 of 11
 Entering MLSampling<P_V,P_M>::sampleIndexes_proc0(), level 1, step 5: unifiedRequestedNumSamples = 10000, unifiedWeightStdVectorAtProc0Only.size() = 100
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 5, after 0.001926 seconds
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 5, after 0.002165 seconds
 Entering MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 6: indexOfFirstWeight = 0, indexOfLastWeight = 99
 In MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 6: original distribution of unified indexes in 'inter0Comm' is as follows
   allFirstIndexes[0] = 0  allLastIndexes[0] = 99
@@ -264,7 +264,7 @@ In MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 6: original 
   KEY, level 1, step 6, origNumChainsPerNode[0] = 100, origNumPositionsPerNode[0] = 10000
   KEY, level 1, step 6, origRatioOfPosPerNode = 1, option loadBalanceTreshold = 1
 Leaving MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 6: result = 0
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 6, after 0.000103 seconds
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 6, after 0.000117 seconds
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 7: beginning step 7 of 11
 Entering MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 7: indexOfFirstWeight = 0, indexOfLastWeight = 99
 KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 7: subNumSamples = 10000, unifiedIndexCountersAtAllProcs.size() = 100
@@ -272,65 +272,11 @@ KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 
 KEY In MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 7: numberOfPositionsToGuaranteeForNode = 10000
 KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 7: unbalancedLinkControl.unbLinkedChains.size() = 100
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 7: balancedLinkControl.balLinkedChains.size() = 0, unbalancedLinkControl.unbLinkedChains.size() = 100
-Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 7, after 8.7e-05 seconds
+Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 7, after 9.7e-05 seconds
 In MLSampling<P_V,P_M>::generateSequence(), level 1, step 8: beginning step 8 of 11
 Leaving MLSampling<P_V,P_M>::generateSequence_Step(), level 1, step 8, after 9e-06 seconds
 In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: beginning step 9 of 11
 In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: entering loop for assessing rejection rate, with nowAttempt = 0, nowRejectionRate = 0
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to sample 35 indexes, meanRejectionRate = 0.32, covRejectionRate = 0.25
-Entering MLSampling<P_V,P_M>::sampleIndexes_proc0(), level 1, step 9: unifiedRequestedNumSamples = 35, unifiedWeightStdVectorAtProc0Only.size() = 100
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to distribute sampled assessment indexes
-Entering MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
-In MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: original distribution of unified indexes in 'inter0Comm' is as follows
-  allFirstIndexes[0] = 0  allLastIndexes[0] = 99
-  KEY, level 1, step 9, Np = 1, totalNumberOfChains = 32
-  KEY, level 1, step 9, origNumChainsPerNode[0] = 32, origNumPositionsPerNode[0] = 35
-  KEY, level 1, step 9, origRatioOfPosPerNode = 1, option loadBalanceTreshold = 1
-Leaving MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: result = 0
-Entering MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
-KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: subNumSamples = 35, unifiedIndexCountersAtAllProcs.size() = 100
-KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: minModifiedSubNumSamples = 35, avgModifiedSubNumSamples = 35, maxModifiedSubNumSamples = 35
-KEY In MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: numberOfPositionsToGuaranteeForNode = 35
-KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: unbalancedLinkControl.unbLinkedChains.size() = 32
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to generate assessment chain
-Entering MLSampling<P_V,P_M>::generateUnbLinkedChains_all(): unbalancedLinkControl.unbLinkedChains.size() = 32, indexOfFirstWeight = 0
-KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: chainIdMax = 32, numberOfPositions = 35, at Wed Jun 28 18:17:51 2017
-
-KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: minNumberOfPositions = 35, avgNumberOfPositions = 35, maxNumberOfPositions = 35
-In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: ended chain loop after 0.077735 seconds, calling fullComm().Barrier() at Wed Jun 28 18:17:52 2017
-
-Leaving MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: after 3.5e-05 seconds in fullComm().Barrier(), at Wed Jun 28 18:17:52 2017
-
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, nowAttempt = 0, beforeEta = 1, etas[0] = 1, nowEta = 1, etas[1] = 1, minRejectionRate = 0.24, nowRejectionRate = 0.0285714, maxRejectionRate = 0.4
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: entering loop for assessing rejection rate, with nowAttempt = 1, nowRejectionRate = 0.0285714
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, with nowAttempt = 1, useMiddlePointLogicForEta = false, nowEta just updated to value (to be tested) 4
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to sample 35 indexes, meanRejectionRate = 0.32, covRejectionRate = 0.25
-Entering MLSampling<P_V,P_M>::sampleIndexes_proc0(), level 1, step 9: unifiedRequestedNumSamples = 35, unifiedWeightStdVectorAtProc0Only.size() = 100
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to distribute sampled assessment indexes
-Entering MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
-In MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: original distribution of unified indexes in 'inter0Comm' is as follows
-  allFirstIndexes[0] = 0  allLastIndexes[0] = 99
-  KEY, level 1, step 9, Np = 1, totalNumberOfChains = 33
-  KEY, level 1, step 9, origNumChainsPerNode[0] = 33, origNumPositionsPerNode[0] = 35
-  KEY, level 1, step 9, origRatioOfPosPerNode = 1, option loadBalanceTreshold = 1
-Leaving MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: result = 0
-Entering MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
-KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: subNumSamples = 35, unifiedIndexCountersAtAllProcs.size() = 100
-KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: minModifiedSubNumSamples = 35, avgModifiedSubNumSamples = 35, maxModifiedSubNumSamples = 35
-KEY In MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: numberOfPositionsToGuaranteeForNode = 35
-KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: unbalancedLinkControl.unbLinkedChains.size() = 33
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to generate assessment chain
-Entering MLSampling<P_V,P_M>::generateUnbLinkedChains_all(): unbalancedLinkControl.unbLinkedChains.size() = 33, indexOfFirstWeight = 0
-KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: chainIdMax = 33, numberOfPositions = 35, at Wed Jun 28 18:17:52 2017
-
-KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: minNumberOfPositions = 35, avgNumberOfPositions = 35, maxNumberOfPositions = 35
-In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: ended chain loop after 16.5922 seconds, calling fullComm().Barrier() at Wed Jun 28 18:18:08 2017
-
-Leaving MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: after 3.4e-05 seconds in fullComm().Barrier(), at Wed Jun 28 18:18:08 2017
-
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, nowAttempt = 1, beforeEta = 1, etas[0] = 1, nowEta = 4, etas[1] = 1, minRejectionRate = 0.24, nowRejectionRate = 0, maxRejectionRate = 0.4
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: entering loop for assessing rejection rate, with nowAttempt = 2, nowRejectionRate = 0
-In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, with nowAttempt = 2, useMiddlePointLogicForEta = false, nowEta just updated to value (to be tested) 16
 In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to sample 35 indexes, meanRejectionRate = 0.32, covRejectionRate = 0.25
 Entering MLSampling<P_V,P_M>::sampleIndexes_proc0(), level 1, step 9: unifiedRequestedNumSamples = 35, unifiedWeightStdVectorAtProc0Only.size() = 100
 In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to distribute sampled assessment indexes
@@ -348,6 +294,60 @@ KEY In MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: nu
 KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: unbalancedLinkControl.unbLinkedChains.size() = 30
 In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to generate assessment chain
 Entering MLSampling<P_V,P_M>::generateUnbLinkedChains_all(): unbalancedLinkControl.unbLinkedChains.size() = 30, indexOfFirstWeight = 0
-KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: chainIdMax = 30, numberOfPositions = 35, at Wed Jun 28 18:18:08 2017
+KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: chainIdMax = 30, numberOfPositions = 35, at Sun Jul  2 12:55:51 2017
+
+KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: minNumberOfPositions = 35, avgNumberOfPositions = 35, maxNumberOfPositions = 35
+In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: ended chain loop after 0.087149 seconds, calling fullComm().Barrier() at Sun Jul  2 12:55:51 2017
+
+Leaving MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: after 3.7e-05 seconds in fullComm().Barrier(), at Sun Jul  2 12:55:51 2017
+
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, nowAttempt = 0, beforeEta = 1, etas[0] = 1, nowEta = 1, etas[1] = 1, minRejectionRate = 0.24, nowRejectionRate = 0, maxRejectionRate = 0.4
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: entering loop for assessing rejection rate, with nowAttempt = 1, nowRejectionRate = 0
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, with nowAttempt = 1, useMiddlePointLogicForEta = false, nowEta just updated to value (to be tested) 4
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to sample 35 indexes, meanRejectionRate = 0.32, covRejectionRate = 0.25
+Entering MLSampling<P_V,P_M>::sampleIndexes_proc0(), level 1, step 9: unifiedRequestedNumSamples = 35, unifiedWeightStdVectorAtProc0Only.size() = 100
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to distribute sampled assessment indexes
+Entering MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
+In MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: original distribution of unified indexes in 'inter0Comm' is as follows
+  allFirstIndexes[0] = 0  allLastIndexes[0] = 99
+  KEY, level 1, step 9, Np = 1, totalNumberOfChains = 31
+  KEY, level 1, step 9, origNumChainsPerNode[0] = 31, origNumPositionsPerNode[0] = 35
+  KEY, level 1, step 9, origRatioOfPosPerNode = 1, option loadBalanceTreshold = 1
+Leaving MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: result = 0
+Entering MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
+KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: subNumSamples = 35, unifiedIndexCountersAtAllProcs.size() = 100
+KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: minModifiedSubNumSamples = 35, avgModifiedSubNumSamples = 35, maxModifiedSubNumSamples = 35
+KEY In MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: numberOfPositionsToGuaranteeForNode = 35
+KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: unbalancedLinkControl.unbLinkedChains.size() = 31
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to generate assessment chain
+Entering MLSampling<P_V,P_M>::generateUnbLinkedChains_all(): unbalancedLinkControl.unbLinkedChains.size() = 31, indexOfFirstWeight = 0
+KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: chainIdMax = 31, numberOfPositions = 35, at Sun Jul  2 12:55:51 2017
+
+KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: minNumberOfPositions = 35, avgNumberOfPositions = 35, maxNumberOfPositions = 35
+In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: ended chain loop after 16.5794 seconds, calling fullComm().Barrier() at Sun Jul  2 12:56:08 2017
+
+Leaving MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: after 3.7e-05 seconds in fullComm().Barrier(), at Sun Jul  2 12:56:08 2017
+
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, nowAttempt = 1, beforeEta = 1, etas[0] = 1, nowEta = 4, etas[1] = 1, minRejectionRate = 0.24, nowRejectionRate = 0, maxRejectionRate = 0.4
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: entering loop for assessing rejection rate, with nowAttempt = 2, nowRejectionRate = 0
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, with nowAttempt = 2, useMiddlePointLogicForEta = false, nowEta just updated to value (to be tested) 16
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to sample 35 indexes, meanRejectionRate = 0.32, covRejectionRate = 0.25
+Entering MLSampling<P_V,P_M>::sampleIndexes_proc0(), level 1, step 9: unifiedRequestedNumSamples = 35, unifiedWeightStdVectorAtProc0Only.size() = 100
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to distribute sampled assessment indexes
+Entering MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
+In MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: original distribution of unified indexes in 'inter0Comm' is as follows
+  allFirstIndexes[0] = 0  allLastIndexes[0] = 99
+  KEY, level 1, step 9, Np = 1, totalNumberOfChains = 27
+  KEY, level 1, step 9, origNumChainsPerNode[0] = 27, origNumPositionsPerNode[0] = 35
+  KEY, level 1, step 9, origRatioOfPosPerNode = 1, option loadBalanceTreshold = 1
+Leaving MLSampling<P_V,P_M>::decideOnBalancedChains_all(), level 1, step 9: result = 0
+Entering MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: indexOfFirstWeight = 0, indexOfLastWeight = 99
+KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: subNumSamples = 35, unifiedIndexCountersAtAllProcs.size() = 100
+KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: minModifiedSubNumSamples = 35, avgModifiedSubNumSamples = 35, maxModifiedSubNumSamples = 35
+KEY In MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: numberOfPositionsToGuaranteeForNode = 35
+KEY Leaving MLSampling<P_V,P_M>::prepareUnbLinkedChains_inter0(), level 1, step 9: unbalancedLinkControl.unbLinkedChains.size() = 27
+In MLSampling<P_V,P_M>::generateSequence_Step09_all(), level 1, step 9: in loop for assessing rejection rate, about to generate assessment chain
+Entering MLSampling<P_V,P_M>::generateUnbLinkedChains_all(): unbalancedLinkControl.unbLinkedChains.size() = 27, indexOfFirstWeight = 0
+KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: chainIdMax = 27, numberOfPositions = 35, at Sun Jul  2 12:56:08 2017
 
 KEY In MLSampling<P_V,P_M>::generateUnbLinkedChains_all(), level 1, step 9: minNumberOfPositions = 35, avgNumberOfPositions = 35, maxNumberOfPositions = 35

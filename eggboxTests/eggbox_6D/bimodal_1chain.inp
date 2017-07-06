@@ -7,7 +7,7 @@ env_subDisplayAllowAll   = 0
 env_subDisplayAllowedSet = 0 1
 env_displayVerbosity     = 2
 env_syncVerbosity        = 0
-env_seed                 = -500
+env_seed                 = -5500
 
 ###############################################
 # Statistical inverse problem (ip)
@@ -26,12 +26,12 @@ ip_ml_dataOutputAllowedSet = 0 1
 # All levels, unless otherwise specified
 ###############################################
 #ip_ml_default_loadBalance = 0
-#ip_ml_default_rawChain_size = 40000
+#ip_ml_default_rawChain_size = 10000
 ip_ml_default_rawChain_dataOutputFileName = outputData/rawChain_ml #data from all levels will be written
 ip_ml_default_minEffectiveSizeRatio = 0.49
 ip_ml_default_maxEffectiveSizeRatio = 0.51
-ip_ml_default_minRejectionRate      = 0.24
-ip_ml_default_maxRejectionRate      = 0.4
+ip_ml_default_minRejectionRate      = 0.1
+ip_ml_default_maxRejectionRate      = 0.6
 ip_ml_default_putOutOfBoundsInChain = 0
 
 ###############################################
