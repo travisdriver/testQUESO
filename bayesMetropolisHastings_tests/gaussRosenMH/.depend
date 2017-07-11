@@ -1,0 +1,6 @@
+example_compute.$(obj-suffix):\
+    example_compute.C
+example_likelihood.$(obj-suffix):\
+    example_likelihood.C
+example_main.$(obj-suffix):\
+    example_main.C

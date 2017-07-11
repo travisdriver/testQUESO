@@ -1,0 +1,36 @@
+*** Warning, this code is deprecated and likely to be removed in future library versions:  example_main.C, line 36, compiled Jun 19 2017 at 13:09:43 ***
+--------------------------------------------------------------------------------------------------------------
+QUESO Library: Version = 0.54.0 (5400)
+
+External Release
+
+Build Date   = 2017-06-05 16:10
+Build Host   = login2
+Build User   = tpd399
+Build Arch   = x86_64-unknown-linux-gnu
+Build Rev    = N/A
+
+C++ Config   = mpicxx -std=c++11
+
+Trilinos DIR = 
+GSL Libs     = -L/work/04921/tpd399/lonestar/LIBRARIES/GSL-21/lib -lgsl -lgslcblas -lm
+GRVY DIR     = 
+GLPK DIR     = 
+HDF5 DIR     = 
+--------------------------------------------------------------------------------------------------------------
+Beginning run at Tue Jun 20 18:22:01 2017
+
+MPI node of worldRank 0 has fullRank 0, belongs to subEnvironment of id 0, and has subRank 0
+MPI node of worldRank 0 belongs to sub communicator with full ranks 0
+MPI node of worldRank 0 also belongs to inter0 communicator with full ranks 0, and has inter0Rank 0
+
+*** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/MLSamplingLevelOptions.C, line 440, compiled Jun  5 2017 at 16:14:48 ***
+*** Warning, this code is deprecated and likely to be removed in future library versions:  example_likelihood.C, line 54, compiled Jun 20 2017 at 18:21:55 ***
+*** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/FiniteDistribution.C, line 39, compiled Jun  5 2017 at 16:13:48 ***
+*** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/FiniteDistribution.C, line 142, compiled Jun  5 2017 at 16:13:48 ***
+*** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/FiniteDistribution.C, line 117, compiled Jun  5 2017 at 16:13:48 ***
+*** Warning, this code is deprecated and likely to be removed in future library versions:  stats/src/MetropolisHastingsSGOptions.C, line 888, compiled Jun  5 2017 at 16:14:03 ***
+*** Warning, this code is deprecated and likely to be removed in future library versions:  core/src/GslMatrix.C, line 429, compiled Jun  5 2017 at 16:12:32 ***
+Ending run at Tue Jun 20 18:22:02 2017
+Total run time = 1 seconds
+*** Warning, AutoPtr is deprecated and will be removed in a future library version! ./include/libmesh/auto_ptr.h, line 271, compiled Jun  5 2017 at 15:16:14 ***

@@ -1,0 +1,30006 @@
+ip_ml_0_rawChain_unified = zeros(10000,2);
+ip_ml_0_rawChain_unified = [-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+-nan -nan 
+];
+ip_ml_0_rawLogLikelihood_unified = zeros(10000,1);
+ip_ml_0_rawLogLikelihood_unified = [-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+];
+ip_ml_0_rawLogTarget_unified = zeros(10000,1);
+ip_ml_0_rawLogTarget_unified = [-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+-nan
+];
