@@ -89,10 +89,10 @@ double likelihoodRoutine(
   //	  getLogProbGR = log( rosenbrock + normFac * gaussian );
   //}
 
-  double resultValue = 2.*log(getLogProbGR);
+  double resultValue = -2.*log(getLogProbGR);
   //resultValue = log(resultValue);
 
-  if (resultValue == -INFINITY) {
+  if (resultValue == INFINITY) {
     //std::cerr << "WARNING In likelihoodRoutine"
     //          << ", fullRank "       << paramValues.env().fullRank()
     //          << ", subEnvironment " << paramValues.env().subId()
@@ -103,14 +103,14 @@ double likelihoodRoutine(
     //          << ", z2 = "           << z2
     //          << ", resultValue = "  << resultValue
     //          << std::endl;
-    resultValue = -1040.;
+    resultValue = 1040.;
   }
   //if (resultValue == -INFINITY){
   	//resultValue = -1040.;
   //}
 
 
-  double returnValue = 0.5*resultValue;
+  double returnValue = -0.5*resultValue;
 
   
   if (paramValues.env().exceptionalCircumstance()) {
