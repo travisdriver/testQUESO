@@ -89,7 +89,7 @@ double likelihoodRoutine(
   //	  getLogProbGR = log( rosenbrock + normFac * gaussian );
   //}
 
-  double resultValue = -2.*log(getLogProbGR);
+  double resultValue = -2.*getLogProbGR;
   //resultValue = log(resultValue);
 
   if (resultValue == INFINITY) {
