@@ -61,12 +61,12 @@ void compute(const QUESO::FullEnvironment& env) {
   meanVector2[1] = 4;
   
   QUESO::GslVector meanVector3(paramSpace.zeroVector());
-  meanVector2[0] = 0;
-  meanVector2[1] = 4;                                   
+  meanVector3[0] = 0;
+  meanVector3[1] = 4;                                   
   
   QUESO::GslVector meanVector4(paramSpace.zeroVector());
-  meanVector2[0] = 4;
-  meanVector2[1] = 0;
+  meanVector4[0] = 4;
+  meanVector4[1] = 0;
   
   likelihoodRoutine_DataType likelihoodRoutine_Data;
   likelihoodRoutine_Data.meanVector1 = &meanVector1;
